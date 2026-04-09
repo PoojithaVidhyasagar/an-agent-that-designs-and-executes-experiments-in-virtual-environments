@@ -1,0 +1,5 @@
+{
+  "name": "Aetheris: Autonomous Research Agent",
+  "description": "An automated experimentation platform that designs, executes, and refines experiments in virtual environments using AI-driven optimization.",
+  "requestFramePermissions": []
+}
